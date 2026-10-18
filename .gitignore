@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.tmp
+
+# Historial generado por el programa
+historial_vehicular.csv

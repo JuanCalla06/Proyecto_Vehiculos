@@ -1,0 +1,7 @@
+requerimientos del proyecto:
+
+tensorflow
+opencv-python
+numpy
+customtkinter
+Pillow
